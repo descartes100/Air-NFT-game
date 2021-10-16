@@ -1,0 +1,53 @@
+#pet_img{
+    width: 100%;
+}
+
+#game{
+    display:none;
+    padding:20px 0;
+}
+
+.promo{
+    text-align: center;
+    padding-top: 150px;
+    height: 75vh;
+    background: rgb(63,70,251);
+    background: radial-gradient(circle, rgba(63,70,251,1) 0%, rgba(70,252,222,1) 100%);
+}
+
+.banner{
+    background-color: rgb(61, 230, 230);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+    width: 82%;
+    text-align: center;
+    display: inline-block;
+    color: azure;
+}
+
+.btn-homepage{
+    background-color:azure;
+    color:rgb(26, 116, 201);
+    border-radius: 30px;
+    border-color:cyan;
+    padding:14px 3vw;
+    font-weight: 600;
+    letter-spacing:1px;
+    margin-top:15px;
+}
+
+.btn-homepage:hover{
+    background: rgb(170,63,251);
+    background: radial-gradient(circle, rgba(170,63,251,1) 0%, rgba(70,214,252,1) 100%);
+	color:azure;
+}
+
+.pet_group{
+    width: 20%;
+    height: 20%;
+}
+
+.feed_button{
+    margin-top: 5px;
+}
